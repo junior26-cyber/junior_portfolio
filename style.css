@@ -1,0 +1,24 @@
+ :where([class^="ri-"])::before
+ 
+    content: "\f3c2"; }
+        body {
+            font-family: 'Poppins', sans-serif;
+        }
+        .hero-section {
+            background-image: url('https://readdy.ai/api/search-image?query=Professional%2520modern%2520abstract%2520background%2520with%2520soft%2520gradient%2520blue%2520tones%2520on%2520the%2520right%2520side%2520and%2520clean%2520white%2520space%2520on%2520the%2520left%2520for%2520text%2520placement.%2520The%2520transition%2520between%2520white%2520and%2520blue%2520is%2520smooth%2520and%2520natural.%2520The%2520background%2520has%2520subtle%2520geometric%2520patterns%2520that%2520suggest%2520technology%2520and%2520innovation.&width=1600&height=800&seq=12345&orientation=landscape');
+            background-size: cover;
+            background-position: center;
+        }
+        .playfair {
+            font-family: 'Playfair Display', serif;
+        }
+        .progress-bar {
+            height: 8px;
+            border-radius: 4px;
+            background-color: #e5e7eb;
+            overflow: hidden;
+        }
+        .progress-fill {
+            height: 100%;
+            border-radius: 4px;
+        }
